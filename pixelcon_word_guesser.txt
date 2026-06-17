@@ -1,9 +1,66 @@
-Pixelcon Word Guesser by DoubleStone Studios is a word game for all ages.
-The app does not collect or store any personal information, has no ads and does not integrate with social networks.
+Privacy Policy
 
-TGame Brainteaser offers in-app purchases.
-Google Play Store uses your provided payment information to process your in-app purchases.
-We do not collect any payment information and use only the status of your purchase as provided by Google in order to grant access to the purchased item.
+Last updated: June 17, 2026
 
-Please note that this privacy policy is subject to change.
-In case you have any questions, please contact us via e-mail: doublestonestudios@gmx.at
+1. Introduction
+
+This Privacy Policy explains how Pixelcon Word Guesser collects and uses information when you use the app.
+
+2. Information We Collect
+
+The app collects and stores:
+
+* A unique user identifier generated through Firebase Authentication.
+* Game progress and game-related data.
+* Information about in-app purchases and purchase restoration.
+* Technical information required for the operation of the app.
+
+The app does not intentionally collect sensitive personal information.
+
+3. Why We Process Your Data
+
+We process your data to:
+
+* Provide and maintain the app.
+* Save and restore game progress.
+* Restore purchases across devices.
+* Protect the app from abuse and fraud.
+* Provide customer support.
+
+4. Third-Party Services
+
+The app uses services provided by:
+
+* Google Firebase (user identification)
+* Google Play Billing (processing and verification of in-app purchases)
+
+These services may process data on our behalf in accordance with their own privacy policies.
+
+5. Legal Basis (EU Users)
+
+For users in the European Economic Area, personal data is processed because it is necessary to provide the services requested by the user.
+
+6. Data Retention
+
+We retain your data for as long as your account remains active or as necessary to provide the app services.
+
+7. Your Rights
+
+Depending on your location, you may have the right to:
+
+* Access your personal data.
+* Correct inaccurate data.
+* Request deletion of your personal data.
+* Object to certain processing activities.
+
+Requests may be submitted using the contact information below.
+
+8. Account and Data Deletion
+
+You may request deletion of your account and associated data by contacting us at doublestonestudios@gmx.at
+
+Upon verification of the request, personal data associated with your account will be deleted unless retention is required by law.
+
+9. Contact
+
+If you have questions regarding this Privacy Policy, please contact doublestonestudios@gmx.at.
